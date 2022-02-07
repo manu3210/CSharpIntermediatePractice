@@ -10,7 +10,7 @@
 
         public override string OpenConnection()
         {
-            Thread.Sleep(11000);
+            //Thread.Sleep(11000);
             return "Sql Connection was opened";
         }
     }
