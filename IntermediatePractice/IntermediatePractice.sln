@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EX1-Stopwatch", "IntermediatePractice\EX1-Stopwatch.csproj", "{88096446-9183-4186-B557-7145EA15B1E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX2-Post", "EX2-Post\EX2-Post.csproj", "{F45225E4-EA84-426E-97C3-65D7F2595C9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{88096446-9183-4186-B557-7145EA15B1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88096446-9183-4186-B557-7145EA15B1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88096446-9183-4186-B557-7145EA15B1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45225E4-EA84-426E-97C3-65D7F2595C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45225E4-EA84-426E-97C3-65D7F2595C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45225E4-EA84-426E-97C3-65D7F2595C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45225E4-EA84-426E-97C3-65D7F2595C9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
