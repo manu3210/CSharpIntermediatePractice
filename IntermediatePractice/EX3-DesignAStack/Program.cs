@@ -40,6 +40,10 @@ while (option == "y" || option == "Y")
 {
     Console.WriteLine("insert something: ");
     var obj = Console.ReadLine();
+
+    if (string.IsNullOrWhiteSpace(obj))
+        obj = null;
+
     stack.Push(obj);
     Console.WriteLine("Continue? Y/N");
     option = Console.ReadLine();
